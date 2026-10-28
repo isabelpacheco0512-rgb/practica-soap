@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tns="http://practica.soap/conversiones">
+  <soapenv:Body>
+    <tns:KilometrosAMillas>
+      <tns:kilometros>10</tns:kilometros>
+    </tns:KilometrosAMillas>
+  </soapenv:Body>
+</soapenv:Envelope>
